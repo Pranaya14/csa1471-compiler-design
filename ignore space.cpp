@@ -56,3 +56,48 @@ return 0;
 }
 
 
+********OUTPUT********
+
+includestdioh is identifier
+long is keyword
+factorialint is identifier
+n is identifier
+if is keyword
+n is identifier
+= is operator
+= is operator
+0 is identifier
+return is keyword
+1 is identifier
+else is keyword
+returnn is identifier
+* is operator
+- is operator
+factorialn1 is identifier
+int is keyword
+main is keyword
+int is keyword
+number is identifier
+long is keyword
+fact is identifier
+printfEnter is identifier
+a is identifier
+number is identifier
+% is operator
+scanfd is identifier
+number is identifier
+fact is identifier
+= is operator
+factorialnumber is identifier
+printfFactorial is identifier
+of is identifier
+% is operator
+d is identifier
+is is identifier
+% is operator
+ldn is identifier
+number is identifier
+fact is identifier
+return is keyword
+0 is identifier
+
