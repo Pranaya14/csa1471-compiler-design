@@ -33,3 +33,11 @@ int main()
 		printf("\n It is not a comment");
 }
 
+
+
+**********OUTPUT**********
+
+Enter comment://HELLOW WORLD//
+
+ It is a comment
+
