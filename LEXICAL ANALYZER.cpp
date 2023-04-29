@@ -72,3 +72,14 @@ int main()
       }
 }
 
+
+
+
+**************OUTPUT***************
+
+enter the string : a=b%c+d-8
+ identifiers : a b c d
+ constants : 8
+ operators : = + -
+
+
